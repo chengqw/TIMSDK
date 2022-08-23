@@ -1,4 +1,4 @@
-English | [简体中文](./README_ZH.md)
+English | [简体中文](README_ZH.md)
 
 Notice: If you open a pull request in TUIKit Android or iOS and the corresponding changes are successfully merged, your name will be included in README.md with a hyperlink to your homepage on GitHub.
 
